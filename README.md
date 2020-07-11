@@ -5,8 +5,6 @@ I am Karanbir who is a DevOps enthusiastic, loves Linux, Containers and Cloud an
 ### Programming Languages 🌐
 
 - Know/Using
-<code>
-</code>
 
 [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28"></code>](https://www.python.org/) 
 [<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="28"></code>](https://www.gnu.org/software/bash/)
