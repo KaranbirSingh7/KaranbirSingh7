@@ -1,8 +1,8 @@
 ### Hi, I'm Karanbir! 
-&nbsp;&nbsp; <sup> &#12299;I automate things. Occasionally, I test my code. </sup>
+<sup> Platform Engineer, Solution and Reliability Engineering (NA) @ Manulife</sup>
 
-**Platform Engineer** &#12299;_Solution and Reliability Engineering (NA)_
-<br/>
+<sup> &#12299;I automate things. Occasionally, I test my code. </sup>
+
 <br/>
 
 
