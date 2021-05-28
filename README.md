@@ -1,6 +1,4 @@
 ### Hi, I'm Karanbir! 
-<sup> Platform Engineer, Solution and Reliability Engineering (NA) @ Manulife</sup>
-
 <sup> &#12299;I automate things. Occasionally, I test my code. </sup>
 
 <br/>
