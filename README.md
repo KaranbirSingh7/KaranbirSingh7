@@ -1,5 +1,5 @@
 ### Hi, I'm Karanbir! 
-<sup> Associate Platform Engineer, Solution and Reliability Engineering (NA) @ Manulife</sup>
+<sup> Platform Reliability Engineer, Solution and Reliability Engineering (NA) @ Manulife</sup>
 
 <sup> I automate things. Occasionally, I test my code. </sup>
 
