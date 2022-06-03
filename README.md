@@ -1,6 +1,6 @@
 ### Hi, I'm Karanbir! 
 
-**Platform Reliability Engineer**, Solution and Reliability Engineering (NA) @ Manulife
+**Senior Cloud Engineer** @ RBC
 
 _I automate things. Occasionally, I test my code._
 
