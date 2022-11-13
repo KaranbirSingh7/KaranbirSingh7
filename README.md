@@ -1,6 +1,6 @@
 ### Hi, I'm Karanbir! 
 
-**Senior Cloud Engineer** @ RBC
+**Site Reliability Engineer**
 
 _I automate things. Occasionally, I test my code._
 
